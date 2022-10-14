@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J-CODE07
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me omprakaash2000@gmail.com
