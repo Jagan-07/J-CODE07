@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J-CODE07
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m love to collaborate on projects
+- 👀 I’m interested in Back-End Development
+- 🌱 I’m currently learning JAVA & DSA
+- 💞️ I love to collaborate on projects
 - 📫 How to reach me omprakaash2000@gmail.com
 
 <!---
