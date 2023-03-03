@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J-CODE07
+- 👋 Hi, I’m JAGAN
 - 👀 I’m interested in Back-End Development
 - 🌱 I’m currently learning JAVA & DSA
 - 💞️ I love to collaborate on projects
