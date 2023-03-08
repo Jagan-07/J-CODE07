@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JAGAN
 - 👀 I’m interested in Back-End Development and Open Source
-- 🌱 I’m currently learning JAVA & DSA
+- 🌱 I’m currently learning ***JAVA*** & ***DSA***
 - 💞️ I love to collaborate on projects
 - 📫 How to reach me omprakaash2000@gmail.com
 
