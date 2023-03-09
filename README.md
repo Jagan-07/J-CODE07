@@ -1,6 +1,3 @@
-- ![Jagan](https://www.canva.com/design/DAFcqFaVp_g/xMsNl0VuAX7Na10KZEXL_A/view?utm_content=DAFcqFaVp_g&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-- 
-- 
 - 👋 Hi, I’m JAGAN
 - 👀 I’m interested in Back-End Development and Open Source
 - 🌱 I’m currently learning ***JAVA*** & ***DSA***
