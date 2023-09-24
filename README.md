@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JAGAN</h1>
+<h1 align="center">Hello 👋, I'm JAGAN</h1>
 
 <p align="center"><img alt="Profile Banner" src="https://pbs.twimg.com/profile_banners/1630412449576022021/1678328226/1500x500"></p>
 
