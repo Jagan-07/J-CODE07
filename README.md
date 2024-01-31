@@ -6,7 +6,7 @@
 I am a DevOps & Open Source Enthusiast. I am passionate about learning the principles and practices of DevOps.
 </h3>
 
-<p align="center"> <a href="https://twitter.com/jagan-07" target="blank"><img src="https://img.shields.io/twitter/follow/jagan-07?logo=twitter&style=for-the-badge" alt="jagan-07" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/jagan-t-839147223/" target="blank"><img src="https://img.shields.io/linkedin/follow/jagan-t-839147223?logo=linkedin&style=for-the-badge" alt="jagan-t" /></a> </p>
  
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
