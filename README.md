@@ -3,7 +3,7 @@
 <p align="center"><img alt="Profile Banner" src="https://pbs.twimg.com/profile_banners/1630412449576022021/1678328226/1500x500"></p>
 
 <h3 align="center">
-I am a Open Source Enthusiast. I am passionate about learning the principles and practices of DevOps.
+I am a DevOps & Open Source Enthusiast. I am passionate about learning the principles and practices of DevOps.
 </h3>
 
 <p align="center"> <a href="https://twitter.com/jagan-07" target="blank"><img src="https://img.shields.io/twitter/follow/jagan-07?logo=twitter&style=for-the-badge" alt="jagan-07" /></a> </p>
